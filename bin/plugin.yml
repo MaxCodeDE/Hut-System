@@ -1,0 +1,12 @@
+name: PeopleCraft-Hut
+autohr: MaxCode
+version: 1.0
+main: me.MaxCode.PeopleCraftHut.PeopleCraftHut
+
+commands:
+     hut:
+          usage:
+          default: op
+     hutv:
+          usage:
+          default: op
